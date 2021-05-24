@@ -1,2 +1,2 @@
 # Linear-Regression
-This is the code for implementing Linear Regression without regularisation.
+This is the code for implementing Linear Regression without regularisation in python.
